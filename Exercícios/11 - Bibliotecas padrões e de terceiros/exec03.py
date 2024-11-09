@@ -1,4 +1,4 @@
-# Biblioteca os ! Estudar 
+# Biblioteca os 
 
 "A biblioteca os permite que você manipule arquivos, diretórios, processos e variáveis de ambiente de forma fácil e eficiente."
 
